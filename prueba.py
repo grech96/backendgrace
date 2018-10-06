@@ -5,6 +5,6 @@ for elemento in lista:
     i = elemento + elemento
     lista = i 
     print(i,elemento)
-    lista.insert(i)
+    lista.insert(i) 
 
     i+=1
